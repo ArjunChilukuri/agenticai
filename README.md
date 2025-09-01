@@ -1,2 +1,1 @@
-# agenticai
-Tets repo to demonstrate agentic ai capabilities
+# Schema Tracker Demo
